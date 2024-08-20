@@ -1,6 +1,6 @@
 ## Olá! Sou o Paulo Henrique, estudante de programacao FullStack. Profissional com experiência diversificada na área de Tecnologia da Informação e Comunicação (TIC). Comprometido com a inovação e sucesso organizacional.
 
-<<div align="center">>
+<div align="center">
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
