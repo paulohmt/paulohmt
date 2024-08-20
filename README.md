@@ -22,6 +22,7 @@
   <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Paulo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Paulo-Nodejs" height="30" width="40" src="https://devicon-website.vercel.app/api/nodejs/original.svg">
+  <img align="center" alt="Paulo-PostgreSQL" height="30" width="40" src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg">
 </div>
 
 ##
